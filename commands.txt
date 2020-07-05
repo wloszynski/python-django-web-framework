@@ -1,0 +1,10 @@
+installing django
+pip3 install django
+
+django commands
+django-admin
+django-admin startproject django_project
+python3 manage.py runserver
+
+# creating new app
+python3 manage.py startapp blod
